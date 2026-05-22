@@ -52,6 +52,23 @@ section{
     justify-content: center;
     text-align: center;
 }
+.anime-card img{
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    transition: transform 0.3s ease;
+}
+.anime-card img:hover{
+
+    transform: scale(1.05);
+}
 .anime-card{
     width: 100%;
     border-radius: 10px;
