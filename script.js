@@ -176,7 +176,7 @@ const animeList = {
     {
         title: "Kuroko's Basketball",
         description: "Kuroko's Basketball (Kuroko no Basket) is a thrilling, action-packed sports anime that follows a mysterious phantom player and an explosive newcomer who team up to lead their high school to the top of Japan's basketball scene",
-        image: "images/kurokos_Basketball.webp"
+        image: "images/Kurokos_Basketball.webp"
     },
     {
         title: "Yuri on Ice",
